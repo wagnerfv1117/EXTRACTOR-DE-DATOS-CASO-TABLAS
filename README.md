@@ -2,9 +2,10 @@
 
 Extract data in table format, with PDF extension.
 
-## **Technologies used (Enviroment)**
+## **Technologies used (Enviroment and Framework)**
 
 - Jupyter Notebook
+- VSCode
 
 ### **Languages used**
 
@@ -15,10 +16,6 @@ Extract data in table format, with PDF extension.
 - pdfplumber
 - pandas 
 - PIL 
-
-### **Framework** 
-
-- VSCode
 
 ### **Project schema**
 
